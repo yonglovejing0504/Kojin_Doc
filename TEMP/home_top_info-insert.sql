@@ -1,0 +1,3 @@
+INSERT INTO home_top_info(id,name,image_url,content,start_time,end_time,deleteflg) VALUES ('001','合作 谁是你的菜','http://yanxuan.nosdn.127.net/65091eebc48899298171c2eb6696fe27.jpg','合作 谁是你的菜','2020/1/1','2020/5/1','0');
+INSERT INTO home_top_info(id,name,image_url,content,start_time,end_time,deleteflg) VALUES ('002','活动 美食节','http://yanxuan.nosdn.127.net/bff2e49136fcef1fd829f5036e07f116.jpg','活动 美食节','2020/1/1','2020/5/1','0');
+INSERT INTO home_top_info(id,name,image_url,content,start_time,end_time,deleteflg) VALUES ('003','活动 母亲节','http://yanxuan.nosdn.127.net/8e50c65fda145e6dd1bf4fb7ee0fcecc.jpg','活动 母亲节','2020/1/1','2020/5/1','0');
