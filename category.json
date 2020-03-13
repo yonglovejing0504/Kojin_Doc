@@ -1,0 +1,97 @@
+{
+  "data": {
+    "categoryList":[
+      {
+        "banner_url": "http://yanxuan.nosdn.127.net/92357337378cce650797444bc107b0f7.jpg",
+        "front_desc": "回家，放松身心",
+        "front_name": "回家，放松身心",
+        "icon_url": "http://yanxuan.nosdn.127.net/a45c2c262a476fea0b9fc684fed91ef5.png",
+        "id": "1005000",
+        "img_url": "//nos.netease.com/yanxuan/f0d0e1a542e2095861b42bf789d948ce.jpg",
+        "is_show": "1",
+        "keywords": "",
+        "level": "L1",
+        "name": "居家",
+        "parent_id": "0",
+        "show_index": "1",
+        "sort_order": "2",
+        "type": "0",
+        "wap_banner_url": "http://yanxuan.nosdn.127.net/e8bf0cf08cf7eda21606ab191762e35c.png"
+      }
+    ],
+    "currentCategory":[
+      {
+        "banner_url": "http://yanxuan.nosdn.127.net/92357337378cce650797444bc107b0f7.jpg",
+        "front_desc": "回家，放松身心",
+        "front_name": "回家，放松身心",
+        "icon_url": "http://yanxuan.nosdn.127.net/a45c2c262a476fea0b9fc684fed91ef5.png",
+        "id": "1005000",
+        "img_url": "//nos.netease.com/yanxuan/f0d0e1a542e2095861b42bf789d948ce.jpg",
+        "is_show": "1",
+        "keywords": "",
+        "level": "L1",
+        "name": "居家",
+        "parent_id": "0",
+        "show_index": "1",
+        "sort_order": "2",
+        "type": "0",
+        "wap_banner_url": "http://yanxuan.nosdn.127.net/e8bf0cf08cf7eda21606ab191762e35c.png",
+        "subCategoryList":[
+          {
+            "banner_url": "http://yanxuan.nosdn.127.net/8bbcd7de60a678846664af998f57e71c.png",
+            "front_desc": "换个软装，换个家",
+            "front_name": "各种风格软装装点你的家",
+            "icon_url": "",
+            "id": "1008002",
+            "img_url": "",
+            "is_show": "1",
+            "keywords": "",
+            "level": "L2",
+            "name": "布艺软装",
+            "parent_id": "1005000",
+            "show_index": "4",
+            "sort_order": "6",
+            "type": "0",
+            "wap_banner_url": "http://yanxuan.nosdn.127.net/2e2fb4f2856a021bbcd1b4c8400f2b06.png"
+          },
+          {
+            "banner_url": "http://yanxuan.nosdn.127.net/927bc33f7ae2895dd6c11cf91f5e3228.png",
+            "front_desc": "选用优质材料，确保好芯",
+            "front_name": "守护你的睡眠时光",
+            "icon_url": "",
+            "id": "1008008",
+            "img_url": "",
+            "is_show": "1",
+            "keywords": "",
+            "level": "L2",
+            "name": "被枕",
+            "parent_id": "1005000",
+            "show_index": "2",
+            "sort_order": "2",
+            "type": "0",
+            "wap_banner_url": "http://yanxuan.nosdn.127.net/b43ef7cececebe6292d2f7f590522e05.png"
+          }  
+        ]
+
+
+
+      }
+
+
+
+
+
+    ]
+
+
+
+
+
+
+
+  }
+
+
+
+
+}
